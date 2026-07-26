@@ -34,8 +34,8 @@ J'aime les projets où le logiciel touche le monde physique — un modèle qui t
 
 ## Me contacter
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mehouachi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehouachiahmed)
 [![Courriel](https://img.shields.io/badge/Courriel-m.ahmedmehouachi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.ahmedmehouachi@gmail.com)
-<!-- LinkedIn : donne-moi ton adresse et je l'ajoute ici -->
 
 <div align="center">
 <sub>Ouvert aux opportunités — n'hésite pas à m'écrire.</sub>
