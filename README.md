@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ahmed Mehouachi](./assets/header.svg)
+<a href="https://github.com/MEHOUACHIAHMED"><img src="./assets/header.svg" alt="Ahmed Mehouachi" width="100%"></a>
 
 </div>
 
