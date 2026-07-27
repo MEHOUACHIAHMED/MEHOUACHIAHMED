@@ -1,35 +1,35 @@
 <div align="center">
 
-<a href="https://github.com/MEHOUACHIAHMED"><img src="./assets/header.svg" alt="Ahmed Mehouachi" width="100%"></a>
+<a href="https://github.com/MEHOUACHIAHMED"><img src="./assets/header-en.svg" alt="Ahmed Mehouachi" width="100%"></a>
 
-**Français** · [English](./README.en.md)
+**English** · [Français](./README.fr.md)
 
-![Profil vu](https://komarev.com/ghpvc/?username=MEHOUACHIAHMED&label=Profil%20vu&color=0e7490&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=MEHOUACHIAHMED&label=Profile%20views&color=0e7490&style=flat-square)
 
 </div>
 
-## Qui je suis
+## Who I am
 
-Ingénieur avec **7 ans de terrain** en systèmes énergétiques (hydraulique et thermique) et en **électronique embarquée**. Je conçois aujourd'hui des systèmes qui perçoivent et décident : **vision par ordinateur** et **intelligence artificielle embarquée**, du capteur jusqu'au code temps réel.
+Engineer with **7 years of field experience** in energy systems (hydraulics and heating) and **embedded electronics**. Today I build systems that perceive and decide: **computer vision** and **embedded artificial intelligence**, from the sensor down to the real-time code.
 
-J'aime les projets où le logiciel touche le monde physique — un modèle qui tourne sur une carte, une caméra qui inspecte une pièce, une machine qui règle elle-même son comportement.
+I like projects where software touches the physical world — a model running on a board, a camera inspecting a part, a machine that tunes its own behaviour.
 
-## Mon parcours
+## My path
 
-- 🔧 **7 ans sur le terrain** — systèmes énergétiques (hydraulique, thermique) et électronique embarquée.
-- 🎓 **Reprise d'études en ingénierie** — projet de fin d'études en **vision industrielle** : recalage de pièces (SIFT), classification, détection, segmentation, lecture de codes et de texte.
-- 🚀 **Aujourd'hui** — vision par ordinateur et intelligence artificielle embarquée, du capteur au temps réel.
+- 🔧 **7 years in the field** — energy systems (hydraulics, heating) and embedded electronics.
+- 🎓 **Back to engineering studies** — final-year project in **industrial computer vision**: part alignment (SIFT), classification, detection, segmentation, code and text reading.
+- 🚀 **Today** — computer vision and embedded artificial intelligence, from sensor to real time.
 
-## Ce que je construis
+## What I build
 
-| Projet | Ce que c'est |
+| Project | What it is |
 | :-- | :-- |
-| [**vision-part-inspection**](https://github.com/MEHOUACHIAHMED/vision-part-inspection) | Inspection de pièces par vision classique (OpenCV) : recalage SIFT + FLANN + homographie RANSAC, puis détection de défauts par comparaison. |
-| [**yolo-object-detection**](https://github.com/MEHOUACHIAHMED/yolo-object-detection) | Détection d'objets temps réel avec YOLOv8 : image, vidéo ou webcam, annotations sauvegardées, comptage par classe et mesure de vitesse. |
-| [**pytorch-image-classifier**](https://github.com/MEHOUACHIAHMED/pytorch-image-classifier) | Réseau convolutif entraîné de zéro en PyTorch sur FashionMNIST (91,9 % de précision), avec matrice de confusion. |
-| [**genesis-showcase**](https://github.com/MEHOUACHIAHMED/genesis-showcase) | Vitrine d'un jumeau numérique énergétique d'une maison + agent d'apprentissage par renforcement (projet de R&D personnel). |
+| [**vision-part-inspection**](https://github.com/MEHOUACHIAHMED/vision-part-inspection) | Part inspection with classical computer vision (OpenCV): SIFT + FLANN alignment, RANSAC homography, then defect detection by comparison. |
+| [**yolo-object-detection**](https://github.com/MEHOUACHIAHMED/yolo-object-detection) | Real-time object detection with YOLOv8: image, video or webcam, saved annotations, per-class counting and speed benchmark. |
+| [**pytorch-image-classifier**](https://github.com/MEHOUACHIAHMED/pytorch-image-classifier) | Convolutional network trained from scratch in PyTorch on FashionMNIST (91.9% accuracy), with a confusion matrix. |
+| [**genesis-showcase**](https://github.com/MEHOUACHIAHMED/genesis-showcase) | Showcase of a physics-based energy digital twin of a house + a reinforcement-learning agent (personal R&D project). |
 
-## Ma boîte à outils
+## My toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -40,48 +40,48 @@ J'aime les projets où le logiciel touche le monde physique — un modèle qui t
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 
-**Domaines** : vision par ordinateur · apprentissage automatique · systèmes embarqués (ESP, Raspberry Pi) · énergie et thermique · automatisation.
+**Fields**: computer vision · machine learning · embedded systems (ESP, Raspberry Pi) · energy and heating · automation.
 
-## Ce que j'apprends en ce moment
+## What I'm learning right now
 
-- 🧠 **L'apprentissage par renforcement** (PPO) pour piloter des systèmes physiques.
-- 🔌 **Le déploiement de modèles sur cartes embarquées** (de l'entraînement au temps réel sur ESP / Raspberry Pi).
-- 👁️ **La vision par ordinateur temps réel** — de la méthode classique (OpenCV) aux réseaux profonds.
+- 🧠 **Reinforcement learning** (PPO) to control physical systems.
+- 🔌 **Deploying models on embedded boards** (from training to real-time on ESP / Raspberry Pi).
+- 👁️ **Real-time computer vision** — from classical methods (OpenCV) to deep networks.
 
-## Mon activité
+## My activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MEHOUACHIAHMED&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEHOUACHIAHMED&show_icons=true&hide_border=true&include_all_commits=true" alt="Statistiques GitHub d'Ahmed Mehouachi" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEHOUACHIAHMED&show_icons=true&hide_border=true&include_all_commits=true" alt="Ahmed Mehouachi's GitHub stats" height="165">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true" alt="Most used languages" height="165">
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophées GitHub" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%">
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEHOUACHIAHMED/MEHOUACHIAHMED/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/MEHOUACHIAHMED/MEHOUACHIAHMED/output/github-snake.svg" alt="Serpent du graphe de contributions" width="100%">
+  <img src="https://raw.githubusercontent.com/MEHOUACHIAHMED/MEHOUACHIAHMED/output/github-snake.svg" alt="Contribution graph snake" width="100%">
 </picture>
 
 </div>
 
-## Me contacter
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mehouachi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehouachiahmed)
-[![Courriel](https://img.shields.io/badge/Courriel-m.ahmedmehouachi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.ahmedmehouachi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-m.ahmedmehouachi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.ahmedmehouachi@gmail.com)
 
 <div align="center">
-<sub>Ouvert aux opportunités — n'hésite pas à m'écrire.</sub>
+<sub>Open to opportunities — feel free to reach out.</sub>
 </div>
