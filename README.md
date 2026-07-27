@@ -14,6 +14,12 @@ Ingénieur avec **7 ans de terrain** en systèmes énergétiques (hydraulique et
 
 J'aime les projets où le logiciel touche le monde physique — un modèle qui tourne sur une carte, une caméra qui inspecte une pièce, une machine qui règle elle-même son comportement.
 
+## Mon parcours
+
+- 🔧 **7 ans sur le terrain** — systèmes énergétiques (hydraulique, thermique) et électronique embarquée.
+- 🎓 **Reprise d'études en ingénierie** — projet de fin d'études en **vision industrielle** : recalage de pièces (SIFT), classification, détection, segmentation, lecture de codes et de texte.
+- 🚀 **Aujourd'hui** — vision par ordinateur et intelligence artificielle embarquée, du capteur au temps réel.
+
 ## Ce que je construis
 
 | Projet | Ce que c'est |
@@ -53,6 +59,13 @@ J'aime les projets où le logiciel touche le monde physique — un modèle qui t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="165">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophées GitHub" width="100%">
 </picture>
 
 <br/>

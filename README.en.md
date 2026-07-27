@@ -14,6 +14,12 @@ Engineer with **7 years of field experience** in energy systems (hydraulics and 
 
 I like projects where software touches the physical world — a model running on a board, a camera inspecting a part, a machine that tunes its own behaviour.
 
+## My path
+
+- 🔧 **7 years in the field** — energy systems (hydraulics, heating) and embedded electronics.
+- 🎓 **Back to engineering studies** — final-year project in **industrial computer vision**: part alignment (SIFT), classification, detection, segmentation, code and text reading.
+- 🚀 **Today** — computer vision and embedded artificial intelligence, from sensor to real time.
+
 ## What I build
 
 | Project | What it is |
@@ -53,6 +59,13 @@ I like projects where software touches the physical world — a model running on
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHOUACHIAHMED&layout=compact&hide_border=true" alt="Most used languages" height="165">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEHOUACHIAHMED&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" width="100%">
 </picture>
 
 <br/>
