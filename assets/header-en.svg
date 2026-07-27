@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Ahmed Mehouachi — Engineer, computer vision and embedded artificial intelligence">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120">
+        <animate attributeName="stop-color"
+          values="#0b1120;#0f172a;#12243f;#0f172a;#0b1120" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.55" stop-color="#132a4a">
+        <animate attributeName="stop-color"
+          values="#132a4a;#0e7490;#3730a3;#0e7490;#132a4a" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0b1120">
+        <animate attributeName="stop-color"
+          values="#0b1120;#1e3a8a;#0891b2;#1e3a8a;#0b1120" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <style>
+      .name { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
+      .role { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 400; }
+      .typed { font-family: 'Consolas', 'Courier New', monospace; font-weight: 600; fill: #e2e8f0; }
+
+      .fadein { opacity: 0; animation: fadein 1.1s ease-out 0.2s forwards; }
+      @keyframes fadein { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+
+      .t0 { width: 0; animation: type0 12s steps(15) infinite; }
+      .t1 { width: 0; animation: type1 12s steps(17) infinite; }
+      .t2 { width: 0; animation: type2 12s steps(32) infinite; }
+      @keyframes type0 { 0%{width:0} 6.5%{width:270px} 26%{width:270px} 32%{width:0} 100%{width:0} }
+      @keyframes type1 { 0%,33%{width:0} 40%{width:306px} 59%{width:306px} 65%{width:0} 100%{width:0} }
+      @keyframes type2 { 0%,66%{width:0} 74%{width:576px} 93%{width:576px} 99%{width:0} 100%{width:0} }
+
+      .c0 { opacity: 0; animation: gate0 12s linear infinite; }
+      .c1 { opacity: 0; animation: gate1 12s linear infinite; }
+      .c2 { opacity: 0; animation: gate2 12s linear infinite; }
+      @keyframes gate0 { 0%{opacity:1} 26%{opacity:1} 27%{opacity:0} 100%{opacity:0} }
+      @keyframes gate1 { 0%,33%{opacity:0} 34%{opacity:1} 59%{opacity:1} 60%{opacity:0} 100%{opacity:0} }
+      @keyframes gate2 { 0%,66%{opacity:0} 67%{opacity:1} 93%{opacity:1} 94%{opacity:0} 100%{opacity:0} }
+      .blink { animation: blink 0.9s steps(1) infinite; }
+      @keyframes blink { 0%,50%{opacity:1} 51%,100%{opacity:0} }
+
+      .float { animation: float 9s ease-in-out infinite; }
+      @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="340" rx="24" fill="url(#bg)"/>
+
+  <g fill="#22d3ee" opacity="0.18">
+    <circle class="float" cx="1080" cy="70"  r="6"  style="animation-delay:0s"/>
+    <circle class="float" cx="1130" cy="150" r="4"  style="animation-delay:1.5s"/>
+    <circle class="float" cx="1050" cy="250" r="5"  style="animation-delay:3s"/>
+    <circle class="float" cx="980"  cy="300" r="3"  style="animation-delay:2s"/>
+  </g>
+  <g stroke="#818cf8" stroke-width="1.5" opacity="0.14" fill="none">
+    <path class="float" d="M60 300 h120" style="animation-delay:1s"/>
+    <path class="float" d="M60 300 v-40" style="animation-delay:1s"/>
+  </g>
+
+  <g class="fadein">
+    <text class="name" x="60" y="130" font-size="62" fill="#f8fafc">Ahmed Mehouachi</text>
+    <text class="role" x="62" y="176" font-size="26" fill="#94a3b8">Engineer &#183; embedded electronics &#183; 7 years in the field</text>
+  </g>
+
+  <rect x="62" y="192" width="360" height="4" rx="2" fill="url(#line)">
+    <animate attributeName="width" values="0;360;360;0" keyTimes="0;0.25;0.85;1" dur="3s" begin="0.4s" fill="freeze"/>
+  </rect>
+
+  <g transform="translate(0,0)">
+    <clipPath id="cp0"><rect class="t0" x="60" y="235" height="46"/></clipPath>
+    <clipPath id="cp1"><rect class="t1" x="60" y="235" height="46"/></clipPath>
+    <clipPath id="cp2"><rect class="t2" x="60" y="235" height="46"/></clipPath>
+
+    <text class="typed" x="60" y="270" font-size="30" clip-path="url(#cp0)">Computer vision</text>
+    <text class="typed" x="60" y="270" font-size="30" clip-path="url(#cp1)">Real-time systems</text>
+    <text class="typed" x="60" y="270" font-size="30" clip-path="url(#cp2)">Embedded artificial intelligence</text>
+
+    <g class="c0"><rect class="blink" x="334" y="243" width="14" height="30" fill="#22d3ee"/></g>
+    <g class="c1"><rect class="blink" x="370" y="243" width="14" height="30" fill="#22d3ee"/></g>
+    <g class="c2"><rect class="blink" x="640" y="243" width="14" height="30" fill="#22d3ee"/></g>
+  </g>
+</svg>

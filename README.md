@@ -2,6 +2,10 @@
 
 <a href="https://github.com/MEHOUACHIAHMED"><img src="./assets/header.svg" alt="Ahmed Mehouachi" width="100%"></a>
 
+**Français** · [English](./README.en.md)
+
+![Profil vu](https://komarev.com/ghpvc/?username=MEHOUACHIAHMED&label=Profil%20vu&color=0e7490&style=flat-square)
+
 </div>
 
 ## Qui je suis
@@ -31,6 +35,12 @@ J'aime les projets où le logiciel touche le monde physique — un modèle qui t
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 
 **Domaines** : vision par ordinateur · apprentissage automatique · systèmes embarqués (ESP, Raspberry Pi) · énergie et thermique · automatisation.
+
+## Ce que j'apprends en ce moment
+
+- 🧠 **L'apprentissage par renforcement** (PPO) pour piloter des systèmes physiques.
+- 🔌 **Le déploiement de modèles sur cartes embarquées** (de l'entraînement au temps réel sur ESP / Raspberry Pi).
+- 👁️ **La vision par ordinateur temps réel** — de la méthode classique (OpenCV) aux réseaux profonds.
 
 ## Mon activité
 
